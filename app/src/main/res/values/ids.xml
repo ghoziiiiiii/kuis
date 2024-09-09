@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_nama" type="id" />
+    <item name="et_nim" type="id" />
+    <item name="et_prodi" type="id" />
+    <item name="tv_nim" type="id" />
+</resources>
